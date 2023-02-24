@@ -1,0 +1,15 @@
+C:\Users\anabe\source\repos\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.exe
+C:\Users\anabe\source\repos\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.deps.json
+C:\Users\anabe\source\repos\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.runtimeconfig.json
+C:\Users\anabe\source\repos\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.dll
+C:\Users\anabe\source\repos\EjercicioSesion2\bin\Debug\net6.0\EjercicioSesion2.pdb
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.csproj.AssemblyReference.cache
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.AssemblyInfoInputs.cache
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.AssemblyInfo.cs
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.csproj.CoreCompileInputs.cache
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.dll
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\refint\EjercicioSesion2.dll
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.pdb
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\EjercicioSesion2.genruntimeconfig.cache
+C:\Users\anabe\source\repos\EjercicioSesion2\obj\Debug\net6.0\ref\EjercicioSesion2.dll
