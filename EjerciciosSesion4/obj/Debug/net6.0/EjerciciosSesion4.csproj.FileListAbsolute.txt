@@ -1,0 +1,15 @@
+C:\Users\anabe\source\repos\EjerciciosSesion4\bin\Debug\net6.0\EjerciciosSesion4.exe
+C:\Users\anabe\source\repos\EjerciciosSesion4\bin\Debug\net6.0\EjerciciosSesion4.deps.json
+C:\Users\anabe\source\repos\EjerciciosSesion4\bin\Debug\net6.0\EjerciciosSesion4.runtimeconfig.json
+C:\Users\anabe\source\repos\EjerciciosSesion4\bin\Debug\net6.0\EjerciciosSesion4.dll
+C:\Users\anabe\source\repos\EjerciciosSesion4\bin\Debug\net6.0\EjerciciosSesion4.pdb
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\EjerciciosSesion4.csproj.AssemblyReference.cache
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\EjerciciosSesion4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\EjerciciosSesion4.AssemblyInfoInputs.cache
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\EjerciciosSesion4.AssemblyInfo.cs
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\EjerciciosSesion4.csproj.CoreCompileInputs.cache
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\EjerciciosSesion4.dll
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\refint\EjerciciosSesion4.dll
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\EjerciciosSesion4.pdb
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\EjerciciosSesion4.genruntimeconfig.cache
+C:\Users\anabe\source\repos\EjerciciosSesion4\obj\Debug\net6.0\ref\EjerciciosSesion4.dll
